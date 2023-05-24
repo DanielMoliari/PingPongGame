@@ -18,5 +18,5 @@ Enjoy and have fun
 
 ## :camera_flash: PingPongGame GIF
 <div style="display: flex; justify-content: center; align-items: center">
-    <img src="./assets/Animacao.gif" width="100%">
+    <img style="self-align: center;" src="./assets/Animacao.gif" width="40%" height="40%">
 </div>
