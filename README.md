@@ -17,6 +17,4 @@ The player on the left moves with: "W" and "S", and the player on the right with
 Enjoy and have fun
 
 ## :camera_flash: PingPongGame GIF
-<div style="display: flex; justify-content: center; align-items: center">
-    <img style="self-align: center;" src="./assets/Animacao.gif" width="40%" height="40%">
-</div>
+<img src="./assets/Animacao.gif" width="40%">
